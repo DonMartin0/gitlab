@@ -8,6 +8,7 @@ public class Hello
 		{
 			name = argv[0];
 		}
+		//Prints the output
 		System.out.println("Hello, " + name  + "!");
 	}
 }
